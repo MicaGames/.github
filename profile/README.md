@@ -9,6 +9,7 @@
 ### Inkball
 
 这是 Windows XP 部分版本和 Windows Vista 自带的游戏
+
 ![image](https://github.com/MicaGames/.github/assets/6630660/f0e42995-d473-40e9-bab2-f84054ef40f4)
 
 ### Ballance
