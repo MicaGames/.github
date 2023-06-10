@@ -6,8 +6,7 @@
 
 ## 正在进行的项目
 
-### ![image](https://github.com/MicaGames/.github/assets/6630660/21176820-ea16-438c-8e40-c3825e444513)
-Inkball
+### ![image](https://github.com/MicaGames/.github/assets/6630660/21176820-ea16-438c-8e40-c3825e444513)Inkball
 
 这是 Windows XP 部分版本和 Windows Vista 自带的游戏
 
