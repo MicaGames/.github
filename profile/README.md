@@ -8,6 +8,8 @@
 
 ### ![image](https://github.com/MicaGames/.github/assets/6630660/21176820-ea16-438c-8e40-c3825e444513)Inkball
 
+https://www.microsoft.com/store/productId/9NBK1BJ87MCF
+
 这是 Windows XP 部分版本和 Windows Vista 自带的游戏
 
 <img width="376" alt="截屏2023-06-11 14 38 31" src="https://github.com/MicaGames/.github/assets/6630660/23270a52-384c-44fb-a0aa-8a7cfed9830d">
