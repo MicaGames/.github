@@ -2,7 +2,8 @@
 
 ## 概述
 
-这是云母工艺（https://github.com/MicaCraft）游戏分支，用于复刻 Windows 经典的游戏
+这是云母工艺（https://github.com/MicaCraft）
+游戏分支，用于复刻 Windows 经典的游戏
 
 ## 正在进行的项目
 
