@@ -7,6 +7,35 @@
 
 ## 正在进行的项目
 
+### Ballance
+
+这是经典的平衡球游戏
+
+#### 游戏的大致玩法
+如果你玩过平衡球，我只想重新设计一点赛道，重新设计场景，以匹配2024年的硬件设施。
+
+如果你玩过平衡球
+
+https://www.bilibili.com/video/BV1n7411F7Af/?spm_id_from=333.337.search-card.all.click&vd_source=2ecac50e837e93bd2d72da3147ff0f6b
+
+整体玩法没啥大变化。尽管我们知道有一些游戏比如蛋仔派对/滚球世纪这些滚球类的游戏是一些变化的玩法。但我们整体玩法不太变化），
+
+#### 场景的大致要求
+
+#### 变现渠道
+
+上架后，根据贡献比例，如果有收入，我们将分配收入。上架渠道是：
+Microsoft Store/Google Play/App Store/Mac App Store，
+我将提供iOS开发者账号，当然如果你们有人能提供那也可以，一年99美元，
+没有预计定价和预估/目标的收入规模
+
+#### 开发引擎
+Unity
+
+#### 资金赞助
+为爱发电
+
+
 ### ![image](https://github.com/MicaGames/.github/assets/6630660/21176820-ea16-438c-8e40-c3825e444513)Inkball
 
 <a style="margin-left:24px" href="https://www.microsoft.com/store/productId/9NBK1BJ87MCF">
@@ -20,7 +49,3 @@
 这是 Windows XP 部分版本和 Windows Vista 自带的游戏
 
 <img width="376" alt="截屏2023-06-11 14 38 31" src="https://github.com/MicaGames/.github/assets/6630660/23270a52-384c-44fb-a0aa-8a7cfed9830d">
-
-### Ballance
-
-这是经典的平衡球游戏
