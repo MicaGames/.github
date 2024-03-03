@@ -16,7 +16,11 @@
 
 如果你玩过平衡球
 
-https://www.bilibili.com/video/BV1n7411F7Af/?spm_id_from=333.337.search-card.all.click&vd_source=2ecac50e837e93bd2d72da3147ff0f6b
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 整体玩法没啥大变化。尽管我们知道有一些游戏比如蛋仔派对/滚球世纪这些滚球类的游戏是一些变化的玩法。但我们整体玩法不太变化），
 
