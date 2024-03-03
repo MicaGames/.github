@@ -16,11 +16,7 @@
 
 如果你玩过平衡球
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/MUQfKFzIOeU" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Ballance](https://res.cloudinary.com/marcomontalbano/image/upload/v1709470879/video_to_markdown/images/youtube--Aiyd-HyOSyQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Aiyd-HyOSyQ "Ballance")
 
 整体玩法没啥大变化。尽管我们知道有一些游戏比如蛋仔派对/滚球世纪这些滚球类的游戏是一些变化的玩法。但我们整体玩法不太变化），
 
