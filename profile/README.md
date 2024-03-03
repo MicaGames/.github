@@ -1,17 +1,15 @@
 # 云母工艺 游戏
 
-## 概述
-
 这是云母工艺（https://github.com/MicaCraft
 ）游戏分支，用于复刻 Windows 经典的游戏
 
-## 正在进行的项目
+# 正在进行的项目
 
-### Ballance
+## Ballance
 
 这是经典的平衡球游戏
 
-#### 1.游戏的大致玩法
+### 1.游戏的大致玩法
 如果你玩过平衡球，我只想重新设计一点赛道，重新设计场景，以匹配2024年的硬件设施。
 
 如果你玩过平衡球
@@ -20,9 +18,9 @@
 
 整体玩法没啥大变化。尽管我们知道有一些游戏比如蛋仔派对/滚球世纪这些滚球类的游戏是一些变化的玩法。但我们整体玩法不太变化），
 
-#### 2.场景的大致要求
+### 2.场景的大致要求
 
-#### 3.上架渠道
+### 3.上架渠道
 
 - App Store
 - Google Play
@@ -33,14 +31,14 @@
 没有预计定价和预估/目标的收入规模
 上架后，根据贡献比例，如果有收入，我们将分配收入。
 
-#### 开发引擎
+### 开发引擎
 Unity
 
-#### 资金赞助
+### 资金赞助
 为爱发电
 
 
-### ![image](https://github.com/MicaGames/.github/assets/6630660/21176820-ea16-438c-8e40-c3825e444513)Inkball
+## ![image](https://github.com/MicaGames/.github/assets/6630660/21176820-ea16-438c-8e40-c3825e444513)Inkball
 
 <a style="margin-left:24px" href="https://www.microsoft.com/store/productId/9NBK1BJ87MCF">
     <picture>
