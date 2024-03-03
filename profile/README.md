@@ -25,9 +25,12 @@ https://www.bilibili.com/video/BV1n7411F7Af/?spm_id_from=333.337.search-card.all
 #### 变现渠道
 
 上架后，根据贡献比例，如果有收入，我们将分配收入。上架渠道是：
-- a
-- 2
-- 2
+
+- App Store
+- Google Play
+- Mac App Store
+- Microsoft Store
+
 我将提供iOS开发者账号，当然如果你们有人能提供那也可以，一年99美元，
 没有预计定价和预估/目标的收入规模
 
